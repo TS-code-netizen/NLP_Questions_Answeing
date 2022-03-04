@@ -26,12 +26,17 @@ Query Term Density
 
 ## What is Information Retrieval?
 It is a method on finding relevant info in a file or document in response to a user's query. It is using word matching without understand the meaning of those documents about.
+
 Term Frequency Inverse Document Frequency (TF-IDF) = Term Frequency * Inverse Document Frequency
+
 Term Frequency (TF) = Number of times a word/term shows up
+
 Inverse Document Frequency (IDF) = Natural Log (Total documents / Number of Documents Consist the term
 
 Query Term Density is the proportion of terms in the sentence (from passages) given that the term must also appear in the query. 
+
 Query Term Density = number of word in sentence appears in query / total words in sentence 
+
 For example, given that a sentence has 3 words out of 20 appear in the query, then the sentence’s query term density is 0.15, 
 
 ## How this project works?
