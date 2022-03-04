@@ -42,5 +42,3 @@ The system will process all the text documents. After a user input a query (in E
 2. Install nltk
 ``pip3 install nltk``
 3. Download the whole text package in this master branch
-4. Run
-``python3 runner.py``
