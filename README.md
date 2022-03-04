@@ -1,4 +1,4 @@
-### Natural Language Processing: Questions Answeing
+### Natural Language Processing: Questions Answering
 ## Summary
 This is a natural processing project on question answering. User can input any question and this algorithm will output the best answer based on the database given.
 This question answering is a simple system based on information retrieval.  
