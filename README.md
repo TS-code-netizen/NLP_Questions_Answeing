@@ -1,6 +1,6 @@
 # Natural Language Processing: Questions Answering
 ## Summary
-This is a natural processing project on question answering. User can input any question and this algorithm will output the best answer based on the database given.
+This is a natural language processing project on question answering. User can input any question and this algorithm will output the best answer based on the database given.
 This question answering is a simple system based on information retrieval.  
 All the text files in the corpus are from the Wikipedia website.
 The text files are based on the few topics:
